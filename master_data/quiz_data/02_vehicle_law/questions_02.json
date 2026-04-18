@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vl_021",
+    "text": "自動車の「所有者の住所」に変更があったとき、いつまでに変更登録の申請をしなければならないか。",
+    "options": [
+      "直ちに",
+      "15日以内",
+      "30日以内",
+      "次の継続検査のときまで"
+    ],
+    "correctIndex": 1,
+    "explanation": "住所等に変更があったときは、15日以内に変更登録の申請が必要です。",
+    "subject": "registration",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_022",
+    "text": "「臨時検査」とはどのようなときに受けるものか、正しいものはどれか。",
+    "options": [
+      "車検の有効期間が切れたとき",
+      "自動車の構造等を変更したとき",
+      "国土交通大臣が保安基準への適合性確認のため必要と認めて命じたとき",
+      "毎年決まった時期に受けるもの"
+    ],
+    "correctIndex": 2,
+    "explanation": "臨時検査は、国土交通大臣が特定の理由により命じた際に行われる検査です。",
+    "subject": "inspection",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_023",
+    "text": "事業用自動車の「点検整備記録簿」について、正しい記述はどれか。",
+    "options": [
+      "当該自動車に備え置かなければならない",
+      "営業所に5年間保存しなければならない",
+      "原本は運輸支局長に提出しなければならない",
+      "整備管理者が自宅で保管すればよい"
+    ],
+    "correctIndex": 0,
+    "explanation": "点検整備記録簿は、当該自動車に備え置かなければなりません。",
+    "subject": "maintenance",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_024",
+    "text": "保安基準において、貨物自動車の「車両総重量」に算入されないものはどれか。",
+    "options": [
+      "車両重量",
+      "最大積載量",
+      "乗車定員分の重量",
+      "燃料を満タンにしたときの重量"
+    ],
+    "correctIndex": 3,
+    "explanation": "車両総重量は車両重量、定員重量、積載量の合計です。燃料重量は車両重量に含まれます。",
+    "subject": "safety_standards",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_025",
+    "text": "整備管理者が運行の可否を決定する際の基準は何か。",
+    "options": [
+      "荷物の重要性",
+      "車両が保安基準に適合し、安全に運行できる状態であるか",
+      "運転者のやる気",
+      "配車スケジュールの余裕度"
+    ],
+    "correctIndex": 1,
+    "explanation": "整備管理者は、車両が保安基準に適合しているかを判断します。",
+    "subject": "maintenance_manager",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_026",
+    "text": "自動車の「制動灯（ブレーキランプ）」の灯光の色として定められているものはどれか。",
+    "options": [
+      "白色",
+      "橙色",
+      "赤色",
+      "黄色"
+    ],
+    "correctIndex": 2,
+    "explanation": "ブレーキランプの色は「赤色」です。",
+    "subject": "safety_standards",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_027",
+    "text": "日常点検において「タイヤ」の確認事項に含まれないものはどれか。",
+    "options": [
+      "空気圧が適当か",
+      "亀裂や損傷がないか",
+      "溝の深さが十分か",
+      "製造メーカーが有名であるか"
+    ],
+    "correctIndex": 3,
+    "explanation": "ブランドは法定の日常点検事項ではありません。",
+    "subject": "maintenance",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_028",
+    "text": "有効期間が満了した自動車を検査のために回送しようとするときに受けるものはどれか。",
+    "options": [
+      "新規登録",
+      "臨時運行許可（仮ナンバー）",
+      "車検の特例延長",
+      "道路使用許可"
+    ],
+    "correctIndex": 1,
+    "explanation": "有効期間切れ車両の回送には臨時運行許可が必要です。",
+    "subject": "registration",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_029",
+    "text": "保安基準において、自動車の前面ガラスに貼付してよいものはどれか。",
+    "options": [
+      "安全運転を祈願するお守り",
+      "公共の福祉に関するステッカー",
+      "検査標章（車検ステッカー）",
+      "会社名のロゴステッカー"
+    ],
+    "correctIndex": 2,
+    "explanation": "前面ガラスには検査標章など指定されたもの以外貼れません。",
+    "subject": "safety_standards",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_030",
+    "text": "定期点検整備を整備工場に委託した場合、記録簿への記載はどうなるか。",
+    "options": [
+      "委託したので記載不要である",
+      "受託者が記載し、使用者が適切に保存する",
+      "使用者が想像で記載する",
+      "記録は不要である"
+    ],
+    "correctIndex": 1,
+    "explanation": "委託した場合も受託者が記載し、使用者が管理します。",
+    "subject": "maintenance",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_031",
+    "text": "整備管理者が欠けたとき、いつまでに新たに選任しなければならないか。",
+    "options": [
+      "15日以内",
+      "直ちに",
+      "30日以内",
+      "次の車検まで"
+    ],
+    "correctIndex": 0,
+    "explanation": "整備管理者が欠けたときは15日以内に選任が必要です。",
+    "subject": "maintenance_manager",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_032",
+    "text": "「方向指示器」の点滅回数として定められている標準的な数値はどれか。",
+    "options": [
+      "毎分30回以上60回以下",
+      "毎分120回以上240回以下",
+      "制限はない",
+      "毎分60回以上120回以下"
+    ],
+    "correctIndex": 3,
+    "explanation": "方向指示器は毎分60回以上120回以下の周期で点滅します。",
+    "subject": "safety_standards",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_033",
+    "text": "ナンバープレートが汚れて見えにくくなったときにとるべき正しい対応はどれか。",
+    "options": [
+      "マジックで書き足す",
+      "段ボールに番号を書いて貼る",
+      "運輸支局等で再交付の手続きをする",
+      "見えないまま走行する"
+    ],
+    "correctIndex": 2,
+    "explanation": "ナンバープレートの判別が困難な場合は再交付が必要です。",
+    "subject": "registration",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_034",
+    "text": "「3ヶ月点検」を自社の工場で行うために必要な条件はどれか。",
+    "options": [
+      "整備士が10名以上いること",
+      "運輸局から特別認可を受けること",
+      "適切な設備があり整備管理者が管理監督すること",
+      "社長が整備士であること"
+    ],
+    "correctIndex": 2,
+    "explanation": "適切な設備と整備管理者の監督があれば自社点検は可能です。",
+    "subject": "maintenance",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_035",
+    "text": "「後退灯（バックランプ）」の灯光の色として定められているものはどれか。",
+    "options": [
+      "白色",
+      "赤色",
+      "黄色",
+      "橙色"
+    ],
+    "correctIndex": 0,
+    "explanation": "バックランプの色は「白色」です。",
+    "subject": "safety_standards",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_036",
+    "text": "日常点検において「原動機」の点検事項に含まれないものはどれか。",
+    "options": [
+      "冷却水の量が適当か",
+      "エンジンオイルの量が適当か",
+      "エンジンの製造番号が正しいか",
+      "ベルトの緩みや損傷"
+    ],
+    "correctIndex": 2,
+    "explanation": "製造番号の確認は日常点検項目ではありません。",
+    "subject": "maintenance",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_037",
+    "text": "一時抹消登録後に、自動車を解体した場合に行う届け出はどれか。",
+    "options": [
+      "変更登録",
+      "完全抹消登録",
+      "なし",
+      "解体届出"
+    ],
+    "correctIndex": 3,
+    "explanation": "一時抹消後の解体には解体届出が必要です。",
+    "subject": "registration",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_038",
+    "text": "保安基準において、トラックの「燃料タンク」の備え付け場所の条件はどれか。",
+    "options": [
+      "排気管の開口部から適切な距離を離す",
+      "運転席のすぐ横",
+      "荷台の真上",
+      "どこでもよい"
+    ],
+    "correctIndex": 0,
+    "explanation": "排気管の開口部から一定距離離すなどの基準があります。",
+    "subject": "safety_standards",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_039",
+    "text": "整備管理者が行うべき「教育」の対象は誰か。",
+    "options": [
+      "荷主",
+      "事務員",
+      "運行管理者",
+      "運転者および点検整備従事者"
+    ],
+    "correctIndex": 3,
+    "explanation": "整備管理者は運転者等に点検・整備の教育を行う任務があります。",
+    "subject": "maintenance_manager",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_040",
+    "text": "自動車の「警音器」の音の大きさの保安基準として正しいものはどれか。",
+    "options": [
+      "音が鳴れば大きさは問わない",
+      "前方7メートルの位置で一定の範囲内",
+      "耳を塞ぐほど大きい",
+      "前方2メートルで150dB"
+    ],
+    "correctIndex": 1,
+    "explanation": "クラクションの音量にも一定の保安基準があります。",
+    "subject": "safety_standards",
+    "difficulty": "C",
+    "isEnabled": true
+  }
+]

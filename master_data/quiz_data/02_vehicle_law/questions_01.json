@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vl_001",
+    "text": "道路運送車両法の目的として、正しいものはどれか。",
+    "options": [
+      "所有権の公証、安全確保、公害防止等",
+      "運送事業の健全な発達",
+      "運転者の労働条件改善",
+      "道路の建設管理"
+    ],
+    "correctIndex": 0,
+    "explanation": "車両法は所有権、安全、公害防止等を目的とします。",
+    "subject": "vehicle_law_purpose",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_002",
+    "text": "新規登録を受けた際に交付される書類はどれか。",
+    "options": [
+      "運行記録計",
+      "自動車検査証",
+      "定期点検記録簿",
+      "自賠責保険証書"
+    ],
+    "correctIndex": 1,
+    "explanation": "新規登録で自動車検査証（車検証）が交付されます。",
+    "subject": "registration",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_003",
+    "text": "所有者に変更があった際、移転登録を申請すべき期限はいつか。",
+    "options": [
+      "直ちに",
+      "15日以内",
+      "30日以内",
+      "次の車検まで"
+    ],
+    "correctIndex": 1,
+    "explanation": "事由発生から15日以内に申請が必要です。",
+    "subject": "registration",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_004",
+    "text": "「自動車検査証」の備え付け義務について正しいのはどれか。",
+    "options": [
+      "営業所に保管",
+      "コピーでよい",
+      "原本を自動車に備え付ける",
+      "運行管理者が持つ"
+    ],
+    "correctIndex": 2,
+    "explanation": "原本の備え付けが義務付けられています。",
+    "subject": "registration",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_005",
+    "text": "定期点検整備（3ヶ月点検）の項目に含まれないものはどれか。",
+    "options": [
+      "ブレーキの遊び",
+      "タイヤの亀裂",
+      "エンジンのオイル漏れ",
+      "カーナビの動作確認"
+    ],
+    "correctIndex": 3,
+    "explanation": "カーナビは法定点検項目ではありません。",
+    "subject": "maintenance",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_006",
+    "text": "日常点検整備を実施すべきタイミングとして正しいのはどれか。",
+    "options": [
+      "1週間に1回",
+      "1ヶ月に1回",
+      "走行距離1,000kmごと",
+      "1日1回、運行の開始前"
+    ],
+    "correctIndex": 3,
+    "explanation": "運行開始前に1日1回実施します。",
+    "subject": "maintenance",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_007",
+    "text": "有効期間満了後も引き続き使用する際に受ける検査はどれか。",
+    "options": [
+      "新規検査",
+      "継続検査",
+      "構造等変更検査",
+      "臨時検査"
+    ],
+    "correctIndex": 1,
+    "explanation": "いわゆる車検は継続検査のことです。",
+    "subject": "inspection",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_008",
+    "text": "大型貨物自動車の継続検査の有効期間（1年目以降）はどれか。",
+    "options": [
+      "6ヶ月",
+      "2年",
+      "3年",
+      "1年"
+    ],
+    "correctIndex": 3,
+    "explanation": "原則として有効期間は1年です。",
+    "subject": "inspection",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_009",
+    "text": "整備管理者を選任しなければならない車両台数の基準はどれか。",
+    "options": [
+      "事業用自動車5台以上",
+      "車両1台以上",
+      "全社で1名のみ",
+      "10台以上"
+    ],
+    "correctIndex": 0,
+    "explanation": "5台以上の使用本拠ごとに選任が必要です。",
+    "subject": "maintenance_manager",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_010",
+    "text": "整備管理者の業務として誤っているものはどれか。",
+    "options": [
+      "荷物の積み込み指示",
+      "運行可否の決定",
+      "定期点検の実施管理",
+      "記録簿の管理"
+    ],
+    "correctIndex": 0,
+    "explanation": "荷役作業の指示は業務に含まれません。",
+    "subject": "maintenance_manager",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_011",
+    "text": "点検整備記録簿の保存期間として正しいものはどれか。",
+    "options": [
+      "1年間",
+      "6ヶ月間",
+      "2年間",
+      "車検まで"
+    ],
+    "correctIndex": 0,
+    "explanation": "1年間の保存が義務付けられています。",
+    "subject": "maintenance",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_012",
+    "text": "ナンバープレートに関する記述のうち誤っているものはどれか。",
+    "options": [
+      "見やすく表示する",
+      "封印を外さない",
+      "取り外して室内に保管",
+      "汚れで隠さない"
+    ],
+    "correctIndex": 2,
+    "explanation": "取り外しての走行は禁止です。",
+    "subject": "registration",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_013",
+    "text": "臨時運行許可（仮ナンバー）について正しいのはどれか。",
+    "options": [
+      "許可の目的・経路・期間内のみ",
+      "どこを走ってもよい",
+      "有効期間は1ヶ月",
+      "車検証は不要"
+    ],
+    "correctIndex": 0,
+    "explanation": "特定の目的・期間に限定されます。",
+    "subject": "registration",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_014",
+    "text": "保安基準における「非常信号用具」の装備義務はどれか。",
+    "options": [
+      "高速道路のみ",
+      "自動車に備え付ける",
+      "夜間のみ",
+      "義務はない"
+    ],
+    "correctIndex": 1,
+    "explanation": "すべての自動車に備え付け義務があります。",
+    "subject": "safety_standards",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_015",
+    "text": "普通貨物自動車のタイヤの溝の深さの基準はどれか。",
+    "options": [
+      "0.8mm以上",
+      "1.6mm以上",
+      "スリップサインまで",
+      "新品の半分"
+    ],
+    "correctIndex": 1,
+    "explanation": "1.6mm以上の深さが必要です。",
+    "subject": "safety_standards",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_016",
+    "text": "保安基準不適合車両への「整備命令」は誰に出されるか。",
+    "options": [
+      "運転者",
+      "整備管理者",
+      "自動車の使用者",
+      "ディーラー"
+    ],
+    "correctIndex": 2,
+    "explanation": "使用者（オーナー等）に出されます。",
+    "subject": "safety_standards",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_017",
+    "text": "日常点検におけるブレーキの確認事項として正しいのはどれか。",
+    "options": [
+      "踏み代が適当か",
+      "液量が適当か",
+      "摩耗が著しくないか",
+      "上記すべて"
+    ],
+    "correctIndex": 3,
+    "explanation": "液量、踏み代等を確認します。",
+    "subject": "maintenance",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_018",
+    "text": "車両の寸法変更等で車検証内容が変わる際に行う検査はどれか。",
+    "options": [
+      "構造等変更検査",
+      "新規検査",
+      "継続検査",
+      "臨時検査"
+    ],
+    "correctIndex": 0,
+    "explanation": "構造等の変更にはこの検査が必要です。",
+    "subject": "inspection",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_019",
+    "text": "大型貨物車等のスピードリミッターの設定速度はどれか。",
+    "options": [
+      "80km/h",
+      "100km/h",
+      "90km/h",
+      "110km/h"
+    ],
+    "correctIndex": 2,
+    "explanation": "90km/hを超えない設定が必要です。",
+    "subject": "safety_standards",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "vl_020",
+    "text": "前面ガラスに貼付が認められないものはどれか。",
+    "options": [
+      "公共の福祉ポスター",
+      "検査標章",
+      "ドラレコ",
+      "ETCアンテナ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ポスター等は視界を妨げるため禁止です。",
+    "subject": "safety_standards",
+    "difficulty": "A",
+    "isEnabled": true
+  }
+]

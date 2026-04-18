@@ -1,0 +1,302 @@
+[
+  {
+    "id": "bl_021",
+    "text": "事業計画を変更しようとする際、国土交通大臣の認可が必要な事項はどれか。",
+    "options": [
+      "営業所の名称変更",
+      "営業所の新設",
+      "自動車の種別ごとの数の変更",
+      "事務所の名称変更"
+    ],
+    "correctIndex": 1,
+    "explanation": "営業所の新設は事前認可事項です。",
+    "subject": "business_permit",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_022",
+    "text": "特別積合せ貨物運送事業者が遵守すべき事項として誤っているものはどれか。",
+    "options": [
+      "積卸施設での適切な荷役",
+      "営業所での適切な仕分け",
+      "運行系統を定めて運行すること",
+      "運賃を自由に設定し掲示しないこと"
+    ],
+    "correctIndex": 3,
+    "explanation": "運賃等は公示し、適正に適用しなければなりません。",
+    "subject": "business_law",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_023",
+    "text": "運行管理者の「解任」命令に関する記述のうち、正しいものはどれか。",
+    "options": [
+      "国土交通大臣は法令違反時に解任を命ずることができる",
+      "事業者は事故があれば直ちに解任しなければならない",
+      "警察署長は不適切指示に対し解任を命ずることができる",
+      "解任された者は即日他所で選任できる"
+    ],
+    "correctIndex": 0,
+    "explanation": "解任命令は国土交通大臣が行います。",
+    "subject": "manager_duty",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_024",
+    "text": "乗務員の酒気帯びを確認した際、運行管理者がとるべき対応はどれか。",
+    "options": [
+      "少量なら水を飲ませて乗務させる",
+      "翌日の勤務を減らし乗務させる",
+      "点検を念入りに行わせ乗務させる",
+      "当該乗務員を乗務させてはならない"
+    ],
+    "correctIndex": 3,
+    "explanation": "酒気帯びでの乗務は絶対禁止です。",
+    "subject": "roll_call",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_025",
+    "text": "新任運行管理者が受講すべき一般講習の時期として正しいのはどれか。",
+    "options": [
+      "選任された年度内",
+      "選任から1年以内",
+      "選任の翌年度",
+      "選任前でなければならない"
+    ],
+    "correctIndex": 0,
+    "explanation": "選任された年度内の受講が必要です。",
+    "subject": "training",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_026",
+    "text": "事業用自動車の乗務員が遵守すべき事項として誤っているものはどれか。",
+    "options": [
+      "酒気を帯びた状態で乗務しない",
+      "過労状態で乗務しない",
+      "踏切通過時に安全を確認する",
+      "荷主指示があれば過積載運転をする"
+    ],
+    "correctIndex": 3,
+    "explanation": "過積載運転は指示があっても違反です。",
+    "subject": "safety_management",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_027",
+    "text": "「事故速報」が必要な重大事故として、正しいものはどれか。",
+    "options": [
+      "死者又は重傷者を生じた事故",
+      "故障により運行不可となった事故",
+      "車両同士が軽く接触した事故",
+      "荷物が破損した事故"
+    ],
+    "correctIndex": 0,
+    "explanation": "死者、重傷者等の事故は24時間以内の速報が必要です。",
+    "subject": "accident_report",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_028",
+    "text": "運行管理者が点呼において行うべき指示に含まれないものはどれか。",
+    "options": [
+      "運行の安全確保に必要な事項",
+      "異常気象時の安全走行法",
+      "休憩場所や経路の再確認",
+      "個人の貯金額の目標設定"
+    ],
+    "correctIndex": 3,
+    "explanation": "私的な目標設定などは点呼指示に含まれません。",
+    "subject": "roll_call",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_029",
+    "text": "事業者が備える「乗務員台帳」に記載する必要がない事項はどれか。",
+    "options": [
+      "雇用年月日",
+      "運転免許証の番号",
+      "氏名及び生年月日",
+      "過去10年間の家族の病歴"
+    ],
+    "correctIndex": 3,
+    "explanation": "家族の病歴は法定記載事項ではありません。",
+    "subject": "business_law",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_030",
+    "text": "日常点検の指導として、運行管理者が徹底させるべきことはどれか。",
+    "options": [
+      "忙しい時は省略してよい",
+      "異常があっても報告しなくてよい",
+      "記録は残さなくてよい",
+      "毎日実施することを徹底させる"
+    ],
+    "correctIndex": 3,
+    "explanation": "日常点検の毎日実施は必須です。",
+    "subject": "safety_management",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_031",
+    "text": "輸送の安全確保について、事業者が遵守すべき最も重要なことはどれか。",
+    "options": [
+      "運賃を最大化すること",
+      "他社を排除すること",
+      "車両を常に新車にすること",
+      "安全確保が最優先である意識の徹底"
+    ],
+    "correctIndex": 3,
+    "explanation": "安全第一の意識徹底が最も重要です。",
+    "subject": "business_law",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_032",
+    "text": "「運行指示書」の作成義務があるのはどのような運行か。",
+    "options": [
+      "営業所に配置されていない車を、営業所以外の場所で乗務交代する場合など",
+      "すべての運行",
+      "高速道路を走らない運行",
+      "日帰り運行"
+    ],
+    "correctIndex": 0,
+    "explanation": "遠隔地での交代等の場合に作成義務があります。",
+    "subject": "safety_management",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_033",
+    "text": "指導監督指針で定められた一般的な指導事項に含まれないのはどれか。",
+    "options": [
+      "適切な積載方法",
+      "危険の予測及び回避",
+      "競合他社の顧客リスト作成",
+      "健康管理の重要性"
+    ],
+    "correctIndex": 2,
+    "explanation": "顧客リスト作成は安全教育に含まれません。",
+    "subject": "training",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_034",
+    "text": "事業用自動車が「火災」を起こした際の報告ルールとして正しいのはどれか。",
+    "options": [
+      "負傷者がいなければ不要",
+      "1週間後にまとめて報告",
+      "車両のみの火災でも事故報告書が必要",
+      "消防署に言えば運輸局へは不要"
+    ],
+    "correctIndex": 2,
+    "explanation": "火災は重大事故として報告義務があります。",
+    "subject": "accident_report",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_035",
+    "text": "乗務員の「疲労」を確認する最も適切な方法はどれか。",
+    "options": [
+      "タイムカードだけ見る",
+      "GPS記録だけ見る",
+      "対面点呼で顔色や声を観察し確認する",
+      "家族に電話して聞く"
+    ],
+    "correctIndex": 2,
+    "explanation": "直接対面での確認が原則です。",
+    "subject": "roll_call",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_036",
+    "text": "事業用自動車の「乗務記録」に記載すべきでない事項はどれか。",
+    "options": [
+      "乗務員の氏名",
+      "乗務の開始・終了地点と日時",
+      "事故や異常の概要",
+      "コンビニでの私的な購入金額"
+    ],
+    "correctIndex": 3,
+    "explanation": "私的な支出は乗務記録の対象外です。",
+    "subject": "business_law",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_037",
+    "text": "補助者に代行させることができる業務はどれか。",
+    "options": [
+      "新しい運行計画の承認",
+      "重大事故の報告判断",
+      "全書類への無条件代行押印",
+      "点呼の一部（深夜早朝等）"
+    ],
+    "correctIndex": 3,
+    "explanation": "補助者は点呼の一部の補助が可能です。",
+    "subject": "manager_duty",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_038",
+    "text": "宿泊を伴う運行の際、事業者が確保すべき施設はどれか。",
+    "options": [
+      "運転席",
+      "近くの店舗",
+      "睡眠に必要な設備を備えた施設",
+      "確保の義務はない"
+    ],
+    "correctIndex": 2,
+    "explanation": "適切な休憩・睡眠施設の確保義務があります。",
+    "subject": "safety_management",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_039",
+    "text": "「点呼記録簿」の保存期間として正しいのはどれか。",
+    "options": [
+      "1年間",
+      "3年間",
+      "5年間",
+      "無期限"
+    ],
+    "correctIndex": 0,
+    "explanation": "点呼記録は1年間保存です。",
+    "subject": "roll_call",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_040",
+    "text": "過労運転を防止するための指導として適切なものはどれか。",
+    "options": [
+      "速度を上げて早く着かせる",
+      "カフェインを大量摂取させる",
+      "適度な休憩とゆとりある行程管理",
+      "疲労を無視して運行させる"
+    ],
+    "correctIndex": 2,
+    "explanation": "適切な休憩と計画が不可欠です。",
+    "subject": "safety_management",
+    "difficulty": "A",
+    "isEnabled": true
+  }
+]

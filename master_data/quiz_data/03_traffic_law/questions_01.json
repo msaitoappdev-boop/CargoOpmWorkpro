@@ -1,0 +1,302 @@
+[
+  {
+    "id": "tl_001",
+    "text": "道路交通法の目的として、正しいものはどれか。",
+    "options": [
+      "道路の整備を促進すること",
+      "危険を防止し交通の安全と円滑を図ること",
+      "自動車の排気ガスによる公害を防止すること",
+      "運送事業の健全な発達を図ること"
+    ],
+    "correctIndex": 1,
+    "explanation": "道交法第1条には道路における危険の防止等が掲げられています。",
+    "subject": "traffic_law_purpose",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_002",
+    "text": "信号機の「黄色の灯火」が表示された時にとるべき行動はどれか。",
+    "options": [
+      "いかなる場合も直ちに停止しなければならない",
+      "注意して進行することができる",
+      "安全に停止できない場合を除き、停止位置を越えて進行してはならない",
+      "加速して速やかに通過しなければならない"
+    ],
+    "correctIndex": 2,
+    "explanation": "安全に止まれない場合を除き、停止位置を越えて進行してはなりません。",
+    "subject": "traffic_signals",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_003",
+    "text": "「追い越し」が禁止されている場所として、正しいものはどれか。",
+    "options": [
+      "トンネル（車両通行帯がある場合）",
+      "勾配の急な上り坂",
+      "優先道路を走行中",
+      "踏切およびその手前から30メートル以内の場所"
+    ],
+    "correctIndex": 3,
+    "explanation": "踏切およびその手前30m以内は追い越し禁止です。",
+    "subject": "passing_rules",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_004",
+    "text": "「徐行」すべき場所として、法令で定められていないものはどれか。",
+    "options": [
+      "道路のまがりかど付近",
+      "上り坂の頂上付近",
+      "勾配の急な上り坂",
+      "勾配の急な下り坂"
+    ],
+    "correctIndex": 2,
+    "explanation": "急な上り坂自体には徐行義務はありません。",
+    "subject": "slow_speed",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_005",
+    "text": "「駐停車禁止」の場所として、正しいものはどれか。",
+    "options": [
+      "消火栓から5メートル以内の場所",
+      "駐車場出口から3メートル以内の場所",
+      "軌道敷内（路面電車の線路内）",
+      "火災報知器から1メートル以内の場所"
+    ],
+    "correctIndex": 2,
+    "explanation": "軌道敷内は駐停車禁止です。",
+    "subject": "parking_rules",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_006",
+    "text": "大型貨物自動車が高速道路の本線車道を走行する際の「最高速度」はどれか。",
+    "options": [
+      "90km/h",
+      "80km/h",
+      "100km/h",
+      "120km/h"
+    ],
+    "correctIndex": 0,
+    "explanation": "2024年4月より90km/hに引き上げられました。",
+    "subject": "speed_limits",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_007",
+    "text": "酒気帯び運転となる呼気中アルコール濃度の基準はどれか。",
+    "options": [
+      "0.1mg/L以上",
+      "0.25mg/L以上",
+      "0.15mg/L以上",
+      "数値に関わらず酒の匂いがすれば該当"
+    ],
+    "correctIndex": 2,
+    "explanation": "呼気1L中0.15mg以上で酒気帯び運転となります。",
+    "subject": "drunk_driving",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_008",
+    "text": "運転中にスマホを注視し交通の危険を生じさせた場合の点数はどれか。",
+    "options": [
+      "1点",
+      "3点",
+      "6点",
+      "12点"
+    ],
+    "correctIndex": 2,
+    "explanation": "危険を生じさせた場合は6点（即免停）です。",
+    "subject": "cell_phone",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_009",
+    "text": "著しい交通の危険を生じさせた「あおり運転」の欠格期間は何年か。",
+    "options": [
+      "1年",
+      "2年",
+      "3年",
+      "なし"
+    ],
+    "correctIndex": 2,
+    "explanation": "あおり運転により著しい危険を生じさせた場合は欠格3年です。",
+    "subject": "dangerous_driving",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_010",
+    "text": "交差点で右折する際、対向の「直進車・左折車」がある場合のルールはどれか。",
+    "options": [
+      "直進車・左折車の進行を妨げてはならない",
+      "右折車が優先される",
+      "車両の大きい方が優先される",
+      "早く入った方が優先される"
+    ],
+    "correctIndex": 0,
+    "explanation": "直進・左折車が優先です。",
+    "subject": "intersection_rules",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_011",
+    "text": "「無免許運転」をした者に車両を提供した者に対する罰則について正しいのはどれか。",
+    "options": [
+      "注意のみで終わる",
+      "車両提供者も厳しく罰せられる",
+      "家族であれば免除される",
+      "本人以外は罰せられない"
+    ],
+    "correctIndex": 1,
+    "explanation": "提供者も同様に罰せられます。",
+    "subject": "unlicensed_driving",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_012",
+    "text": "高速道路で故障により停車する場合、後方に置くべきものはどれか。",
+    "options": [
+      "スペアタイヤ",
+      "停止表示器材（三角表示板など）",
+      "自分の運転免許証",
+      "荷物のリスト"
+    ],
+    "correctIndex": 1,
+    "explanation": "停止表示器材の設置義務があります。",
+    "subject": "highway_rules",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_013",
+    "text": "一方通行道路で緊急自動車が接近した際の正しい避譲方法はどれか。",
+    "options": [
+      "必ず左側に寄る",
+      "左に寄ると妨げになる場合は右側に寄ることができる",
+      "停止せず走り続ける",
+      "交差点の中心で停止する"
+    ],
+    "correctIndex": 1,
+    "explanation": "状況により右側に寄ることができます。",
+    "subject": "emergency_vehicle",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_014",
+    "text": "現行制度の「普通免許」で運転できる車両の総重量制限はどれか。",
+    "options": [
+      "2.0トン未満",
+      "3.5トン未満",
+      "5.0トン未満",
+      "7.5トン未満"
+    ],
+    "correctIndex": 1,
+    "explanation": "平成29年3月以降取得の普通免許は3.5t未満が上限です。",
+    "subject": "license",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_015",
+    "text": "「過労運転」の禁止を定めた道路交通法の条文はどれか。",
+    "options": [
+      "第1条",
+      "第17条",
+      "第66条",
+      "第75条"
+    ],
+    "correctIndex": 2,
+    "explanation": "第66条に規定されています。",
+    "subject": "safety_duty",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_016",
+    "text": "道路のまがりかどから「5メートル以内」の場所のルールはどれか。",
+    "options": [
+      "駐車禁止",
+      "徐行義務なし",
+      "追い越し可能",
+      "駐停車禁止"
+    ],
+    "correctIndex": 3,
+    "explanation": "まがりかどから5m以内は駐停車禁止です。",
+    "subject": "parking_rules",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_017",
+    "text": "積載物の長さが自動車の長さの何倍までなら許可なく積めるか。",
+    "options": [
+      "1.1倍",
+      "1.0倍",
+      "1.5倍",
+      "1.2倍"
+    ],
+    "correctIndex": 3,
+    "explanation": "2022年改正により1.2倍まで許可不要となりました。",
+    "subject": "load_limits",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_018",
+    "text": "警察官が「並行する」交通に対し腕を水平に上げている時の信号の意味はどれか。",
+    "options": [
+      "青色と同じ",
+      "黄色と同じ",
+      "赤色と同じ",
+      "無視してよい"
+    ],
+    "correctIndex": 0,
+    "explanation": "並行する交通は青信号と同じ意味です。",
+    "subject": "traffic_signals",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_019",
+    "text": "「一時停止」の標識がある場所でとるべき行動はどれか。",
+    "options": [
+      "左右を確認し停止線の直前で一時停止する",
+      "最徐行して通過する",
+      "前の車が止まれば自分は不要",
+      "歩行者がいなければ不要"
+    ],
+    "correctIndex": 0,
+    "explanation": "車輪を完全に停止させなければなりません。",
+    "subject": "stop_rules",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_020",
+    "text": "「横断歩道」に近づく際、歩行者が明らかにいない場合の行動はどれか。",
+    "options": [
+      "一時停止する",
+      "徐行する",
+      "必ず減速する",
+      "そのままの速度で進行してよい"
+    ],
+    "correctIndex": 3,
+    "explanation": "いないことが明らかな場合は進行可能です。",
+    "subject": "crosswalk_rules",
+    "difficulty": "B",
+    "isEnabled": true
+  }
+]

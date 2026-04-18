@@ -1,0 +1,302 @@
+[
+  {
+    "id": "pk_001",
+    "text": "「停止距離」に関する記述として、正しいものはどれか。",
+    "options": [
+      "空走距離と制動距離を合わせた距離である",
+      "ブレーキが効き始めてから止まるまでの距離",
+      "危険を感じてからブレーキを踏むまでの距離",
+      "常に一定の距離である"
+    ],
+    "correctIndex": 0,
+    "explanation": "停止距離 = 空走距離 + 制動距離です。",
+    "subject": "stopping_distance",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_002",
+    "text": "オートマチック車で、アクセルを踏まなくても動き出す現象を何と呼ぶか。",
+    "options": [
+      "フェード現象",
+      "クリープ現象",
+      "ベーパーロック現象",
+      "ハイドロプレーニング現象"
+    ],
+    "correctIndex": 1,
+    "explanation": "アイドリング状態で車が動き出すのがクリープ現象です。",
+    "subject": "vehicle_characteristics",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_003",
+    "text": "「ハイドロプレーニング現象」を防ぐための対策として、誤っているものはどれか。",
+    "options": [
+      "雨天時は速度を落とす",
+      "タイヤ空気圧を適正に保つ",
+      "溝が摩耗したタイヤを使わない",
+      "水たまりで急ブレーキをかける"
+    ],
+    "correctIndex": 3,
+    "explanation": "水たまりでの急操作は厳禁です。",
+    "subject": "weather_driving",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_004",
+    "text": "荷物の積み方において、「偏荷重」を避けるべき理由として適切なのはどれか。",
+    "options": [
+      "燃費が悪くなるから",
+      "荷崩れや横転の危険があるから",
+      "荷主の要望だから",
+      "タイヤが汚れるから"
+    ],
+    "correctIndex": 1,
+    "explanation": "重心が偏ると挙動が不安定になり事故につながります。",
+    "subject": "cargo_loading",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_005",
+    "text": "交通事故の三要素に含まれないものはどれか。",
+    "options": [
+      "人間（運転者）",
+      "車両",
+      "道路・環境",
+      "荷主（配送指示）"
+    ],
+    "correctIndex": 3,
+    "explanation": "三要素は「人間」「車両」「道路・環境」です。",
+    "subject": "accident_mechanism",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_006",
+    "text": "自車と対向車のライトが重なり中央の歩行者が見えなくなる現象はどれか。",
+    "options": [
+      "蒸発現象（グレア現象）",
+      "フェード現象",
+      "パニック現象",
+      "ホワイトアウト現象"
+    ],
+    "correctIndex": 0,
+    "explanation": "光の干渉により歩行者が消えて見えるのが蒸発現象です。",
+    "subject": "night_driving",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_007",
+    "text": "ブレーキ液に気泡が発生しブレーキが効かなくなる現象を何と呼ぶか。",
+    "options": [
+      "ベーパーロック現象",
+      "フェード現象",
+      "スタンディングウェーブ",
+      "ハイドロプレーニング"
+    ],
+    "correctIndex": 0,
+    "explanation": "熱で液が沸騰し圧力が伝わらなくなるのがベーパーロックです。",
+    "subject": "vehicle_characteristics",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_008",
+    "text": "「プロドライバー」の健康管理について、適切な記述はどれか。",
+    "options": [
+      "睡眠不足でも栄養ドリンクで補う",
+      "多少の体調不良は精神力でカバーする",
+      "定期健診を受け自身の健康状態を把握する",
+      "風邪薬を飲んで眠気が出ても運転する"
+    ],
+    "correctIndex": 2,
+    "explanation": "日頃の健康管理が事故防止の基本です。",
+    "subject": "health_management",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_009",
+    "text": "「ヒヤリハット」調査の目的として、正しいものはどれか。",
+    "options": [
+      "運転者のミスを叱責するため",
+      "潜在的危険事例を共有し事故防止に役立てる",
+      "警察に報告するため",
+      "ドラレコの故障チェック"
+    ],
+    "correctIndex": 1,
+    "explanation": "1件の重大事故を防ぐために300件のヒヤリハットを分析します。",
+    "subject": "accident_mechanism",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_010",
+    "text": "「エコドライブ」の実践方法として、誤っているものはどれか。",
+    "options": [
+      "急発進・急加速を避ける",
+      "不要なアイドリングを控える",
+      "タイヤの空気圧を低めに設定する",
+      "加減速の少ない運転をする"
+    ],
+    "correctIndex": 2,
+    "explanation": "空気圧が低いと燃費が悪化します。",
+    "subject": "eco_driving",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_011",
+    "text": "旋回時に後輪が前輪より内側を通る現象を何と呼ぶか。",
+    "options": [
+      "外輪差",
+      "内輪差",
+      "オーバーハング",
+      "ジャックナイフ"
+    ],
+    "correctIndex": 1,
+    "explanation": "後輪が前輪より内側を通るのが内輪差です。",
+    "subject": "vehicle_characteristics",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_012",
+    "text": "事故発生時の応急手当において、最初に行うべきことはどれか。",
+    "options": [
+      "人工呼吸",
+      "負傷者の名前確認",
+      "警察への電話",
+      "現場の安全確保（二次事故防止）"
+    ],
+    "correctIndex": 3,
+    "explanation": "まず現場の安全を確保し二次被害を防ぎます。",
+    "subject": "emergency_care",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_013",
+    "text": "タイヤ中心から車体の前後端までのはみ出し部分を何と呼ぶか。",
+    "options": [
+      "トレッド",
+      "オーバーハング",
+      "ホイールベース",
+      "最低地上高"
+    ],
+    "correctIndex": 1,
+    "explanation": "前後の突き出し部分がオーバーハングです。",
+    "subject": "vehicle_characteristics",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_014",
+    "text": "シートベルトの正しい着用について、誤っているものはどれか。",
+    "options": [
+      "腰ベルトは骨盤を巻くように締める",
+      "ベルトがねじれないようにする",
+      "バックルを確実に差し込む",
+      "窮屈なので緩めて着用する"
+    ],
+    "correctIndex": 3,
+    "explanation": "緩めての着用は衝突時の保護能力を低下させます。",
+    "subject": "safety_equipment",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_015",
+    "text": "「飲酒」が運転に及ぼす影響として、誤っているものはどれか。",
+    "options": [
+      "注意力が散漫になる",
+      "視界が狭くなる",
+      "反応時間が短くなる",
+      "平衡感覚が乱れる"
+    ],
+    "correctIndex": 2,
+    "explanation": "反応時間は「長く（遅く）」なります。",
+    "subject": "drunk_driving",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_016",
+    "text": "AEBS（衝突被害軽減ブレーキ）搭載車を運転する際の基本姿勢はどれか。",
+    "options": [
+      "システムを過信しわき見運転をする",
+      "いかなる場合も衝突を回避できると考える",
+      "システムは補助と理解し安全運転に努める",
+      "天候に関わらず速度を落とさない"
+    ],
+    "correctIndex": 2,
+    "explanation": "AEBSはあくまで補助装置です。",
+    "subject": "safety_equipment",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_017",
+    "text": "「疲労」を感じたときの最も効果的な対処法はどれか。",
+    "options": [
+      "停車して短時間の仮眠をとる",
+      "窓を開けて外気を吸う",
+      "ガムを噛む",
+      "大声で歌う"
+    ],
+    "correctIndex": 0,
+    "explanation": "睡眠（仮眠）が最も効果的な疲労回復法です。",
+    "subject": "fatigue_management",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_018",
+    "text": "トラックの「死角」について、正しい記述はどれか。",
+    "options": [
+      "助手席側の側方は大きな死角となる",
+      "車体が大きいほど死角は少なくなる",
+      "運転席が高いので車両直前の死角はない",
+      "ミラーを調整すれば死角は完全になくなる"
+    ],
+    "correctIndex": 0,
+    "explanation": "助手席側方や後方は構造上、大きな死角となります。",
+    "subject": "vehicle_characteristics",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_019",
+    "text": "「危険予知トレーニング（KYT）」の目的はどれか。",
+    "options": [
+      "道路の構造を覚えるため",
+      "車両の故障箇所発見のため",
+      "危険を事前に予測し回避する能力を高める",
+      "燃費向上のため"
+    ],
+    "correctIndex": 2,
+    "explanation": "危険を予測する習慣をつけ事故を防ぎます。",
+    "subject": "training",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_020",
+    "text": "冬道の走行においてチェーンを装着すべき基本の場所はどこか。",
+    "options": [
+      "前輪のみ",
+      "後輪のみ",
+      "駆動輪",
+      "どこでもよい"
+    ],
+    "correctIndex": 2,
+    "explanation": "エンジンの力が伝わる駆動輪に装着するのが基本です。",
+    "subject": "weather_driving",
+    "difficulty": "B",
+    "isEnabled": true
+  }
+]

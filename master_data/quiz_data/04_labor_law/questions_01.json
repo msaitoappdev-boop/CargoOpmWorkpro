@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ll_001",
+    "text": "労働基準法における労働条件の原則として、正しいものはどれか。",
+    "options": [
+      "人たるに値する生活を営むための必要を満たすべきもの",
+      "使用者が経済状況に応じて自由に決定できるもの",
+      "最低基準を下回る条件での契約が推奨されるもの",
+      "景気が悪い時は遵守しなくてよいもの"
+    ],
+    "correctIndex": 0,
+    "explanation": "労働条件は人たるに値する生活を満たすべきものです。",
+    "subject": "labor_principles",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_002",
+    "text": "労働基準法で定める「法定労働時間」の原則（1日）はどれか。",
+    "options": [
+      "7時間",
+      "9時間",
+      "10時間",
+      "8時間"
+    ],
+    "correctIndex": 3,
+    "explanation": "1日8時間、1週40時間が原則です。",
+    "subject": "working_hours",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_003",
+    "text": "労働時間が「8時間」を超える場合に与えるべき休憩時間はどれか。",
+    "options": [
+      "30分以上",
+      "45分以上",
+      "少なくとも60分",
+      "休憩は不要"
+    ],
+    "correctIndex": 2,
+    "explanation": "8時間超の場合は60分以上の休憩が必要です。",
+    "subject": "working_hours",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_004",
+    "text": "使用者が労働者を解雇しようとする場合、少なくとも何日前に予告すべきか。",
+    "options": [
+      "7日前",
+      "14日前",
+      "30日前",
+      "60日前"
+    ],
+    "correctIndex": 2,
+    "explanation": "少なくとも30日前の予告が必要です。",
+    "subject": "dismissal",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_005",
+    "text": "「改善基準告示」における運転者の1日の拘束時間の原則的な上限はどれか。",
+    "options": [
+      "12時間",
+      "13時間",
+      "15時間",
+      "16時間"
+    ],
+    "correctIndex": 1,
+    "explanation": "1日の拘束時間は原則13時間が上限です。",
+    "subject": "standard_for_drivers",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_006",
+    "text": "「改善基準告示」における、継続して与えるべき「休息期間」の最低時間はどれか。",
+    "options": [
+      "8時間",
+      "9時間",
+      "11時間",
+      "12時間"
+    ],
+    "correctIndex": 2,
+    "explanation": "継続9時間を下回ってはなりません。",
+    "subject": "standard_for_drivers",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_007",
+    "text": "「改善基準告示」において、運転者の1日の運転時間（2日平均）の限度はどれか。",
+    "options": [
+      "8時間",
+      "9時間",
+      "10時間",
+      "12時間"
+    ],
+    "correctIndex": 1,
+    "explanation": "2日平均で1日9時間が限度です。",
+    "subject": "standard_for_drivers",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_008",
+    "text": "連続運転時間「4時間」走るごとに必要な運転中断時間の合計はどれか。",
+    "options": [
+      "15分以上",
+      "20分以上",
+      "30分以上",
+      "60分以上"
+    ],
+    "correctIndex": 2,
+    "explanation": "4時間ごとに計30分以上の運転中断が必要です。",
+    "subject": "standard_for_drivers",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_009",
+    "text": "「改善基準告示」における「1週間」の拘束時間の上限はどれか。",
+    "options": [
+      "60時間",
+      "65時間",
+      "72時間",
+      "制限なし"
+    ],
+    "correctIndex": 1,
+    "explanation": "1週間の上限は原則65時間です。",
+    "subject": "standard_for_drivers",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_010",
+    "text": "雇入れから6ヶ月経過した労働者に与えるべき「年次有給休暇」の最低日数はどれか。",
+    "options": [
+      "5日",
+      "7日",
+      "10日",
+      "20日"
+    ],
+    "correctIndex": 2,
+    "explanation": "全労働日の8割以上出勤で10日付与されます。",
+    "subject": "vacation",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_011",
+    "text": "「時間外労働」をさせるために必要な、労働基準法第36条に基づく協定はどれか。",
+    "options": [
+      "就業規則",
+      "36協定",
+      "安全衛生規程",
+      "運行管理規程"
+    ],
+    "correctIndex": 1,
+    "explanation": "36（サブロク）協定の締結と届出が必要です。",
+    "subject": "agreement",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_012",
+    "text": "労働基準法における「深夜労働」の時間帯（原則）はどれか。",
+    "options": [
+      "午後8時〜午後11時",
+      "午後10時〜午前5時",
+      "午前0時〜午前6時",
+      "午後11時〜午前6時"
+    ],
+    "correctIndex": 1,
+    "explanation": "午後10時から午前5時までが深夜業です。",
+    "subject": "working_hours",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_013",
+    "text": "変形休日制をとる場合、4週間を通じて与えるべき最低の休日数はどれか。",
+    "options": [
+      "2回",
+      "3回",
+      "4回",
+      "8回"
+    ],
+    "correctIndex": 2,
+    "explanation": "4週間を通じて4日以上の休日が必要です。",
+    "subject": "holidays",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_014",
+    "text": "「賃金の支払5原則」に含まれない、誤ったものはどれか。",
+    "options": [
+      "一定期日払の原則",
+      "毎月1回以上払の原則",
+      "通貨払の原則",
+      "年1回払の原則"
+    ],
+    "correctIndex": 3,
+    "explanation": "年1回払いは認められません。",
+    "subject": "wage",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_015",
+    "text": "「平均賃金」の算定期間は、直近何ヶ月間の賃金総額に基づくか。",
+    "options": [
+      "1ヶ月",
+      "3ヶ月",
+      "6ヶ月",
+      "1年"
+    ],
+    "correctIndex": 1,
+    "explanation": "直近3ヶ月間の総額から算出します。",
+    "subject": "wage",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_016",
+    "text": "「改善基準告示」において、運転者の1ヶ月の拘束時間の原則的な上限はどれか。",
+    "options": [
+      "284時間",
+      "293時間",
+      "320時間",
+      "制限なし"
+    ],
+    "correctIndex": 0,
+    "explanation": "原則284時間が上限です。",
+    "subject": "standard_for_drivers",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_017",
+    "text": "労災休業期間およびその後「何日間」は解雇が禁止されているか。",
+    "options": [
+      "7日間",
+      "14日間",
+      "30日間",
+      "180日間"
+    ],
+    "correctIndex": 2,
+    "explanation": "休業期間およびその後30日間は解雇禁止です。",
+    "subject": "dismissal",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_018",
+    "text": "労働契約の締結時に、書面等で明示することが義務付けられている事項はどれか。",
+    "options": [
+      "賃金の額",
+      "使用者の家族構成",
+      "会社の車両台数",
+      "取引先の名称"
+    ],
+    "correctIndex": 0,
+    "explanation": "賃金や労働時間などは絶対的明示事項です。",
+    "subject": "labor_contract",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_019",
+    "text": "生理日の就業が著しく困難な女性が請求した場合、使用者がとるべき対応はどれか。",
+    "options": [
+      "有給休暇を強制する",
+      "診断書の提出を求める",
+      "解雇を通告する",
+      "就業させてはならない"
+    ],
+    "correctIndex": 3,
+    "explanation": "請求があれば就業させてはなりません。",
+    "subject": "vacation",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "ll_020",
+    "text": "「就業規則」の作成義務が生じる常時使用労働者数は何人以上か。",
+    "options": [
+      "5人以上",
+      "30人以上",
+      "10人以上",
+      "50人以上"
+    ],
+    "correctIndex": 2,
+    "explanation": "10人以上の事業場に義務があります。",
+    "subject": "agreement",
+    "difficulty": "A",
+    "isEnabled": true
+  }
+]

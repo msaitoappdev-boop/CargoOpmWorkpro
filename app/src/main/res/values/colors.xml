@@ -1,0 +1,6 @@
+<resources>
+    <!-- 運行管理者（貨物）テーマカラー：セーフティ・グリーン -->
+    <color name="md_theme_primary">#2E7D32</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_secondary">#55624C</color>
+</resources>

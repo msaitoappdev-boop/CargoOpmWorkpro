@@ -1,0 +1,302 @@
+[
+  {
+    "id": "tl_021",
+    "text": "指定最高速度の標識がない一般道路での普通貨物自動車の最高速度はどれか。",
+    "options": [
+      "40km/h",
+      "50km/h",
+      "60km/h",
+      "80km/h"
+    ],
+    "correctIndex": 2,
+    "explanation": "標識のない一般道路の法定最高速度は60km/hです。",
+    "subject": "speed_limits",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_022",
+    "text": "「追い越し」のため進路を変えようとするとき、合図を出すべきタイミングはどれか。",
+    "options": [
+      "進路を変える約3秒前",
+      "進路を変える直前",
+      "進路を変える約30m手前",
+      "追い越しが終わってから"
+    ],
+    "correctIndex": 0,
+    "explanation": "進路変更の合図は約3秒前に行う必要があります。",
+    "subject": "passing_rules",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_023",
+    "text": "「交差点」における左折の通行方法として、正しいものはどれか。",
+    "options": [
+      "あらかじめ道路の右側に寄る",
+      "中心の内側を徐行する",
+      "交差点内で停止する",
+      "あらかじめ左側に寄り側端に沿って徐行する"
+    ],
+    "correctIndex": 3,
+    "explanation": "左折は左側に寄り、側端に沿って徐行します。",
+    "subject": "intersection_rules",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_024",
+    "text": "「駐車」の定義に該当するものはどれか。",
+    "options": [
+      "客待ち、荷待ちによる継続的な停止",
+      "5分を超えない荷物の積卸しのための停止",
+      "故障による一時的な停止",
+      "信号待ちによる停止"
+    ],
+    "correctIndex": 0,
+    "explanation": "客待ち・荷待ちは時間に関わらず駐車です。",
+    "subject": "parking_rules",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_025",
+    "text": "消防署などの出口から「何メートル以内」の場所が駐車禁止か。",
+    "options": [
+      "1メートル以内",
+      "3メートル以内",
+      "5メートル以内",
+      "10メートル以内"
+    ],
+    "correctIndex": 2,
+    "explanation": "消防用機械器具の置場等から5m以内は駐車禁止です。",
+    "subject": "parking_rules",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_026",
+    "text": "「踏切」通過時のルールとして、正しいものはどれか。",
+    "options": [
+      "警報機が鳴り始めても急いで通過する",
+      "直前で一時停止し、目と耳で安全確認する",
+      "徐行すれば停止しなくてよい",
+      "遮断機が降りてから進入する"
+    ],
+    "correctIndex": 1,
+    "explanation": "踏切は直前での一時停止と安全確認が義務です。",
+    "subject": "stop_rules",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_027",
+    "text": "「自動車検査証」を備え付けていない場合の処罰について、正しいのはどれか。",
+    "options": [
+      "反則金の支払い（青切符）",
+      "注意のみ",
+      "車両の没収",
+      "罰金または懲役（刑事罰）"
+    ],
+    "correctIndex": 3,
+    "explanation": "車検証不携帯は車両法違反であり刑事罰の対象です。",
+    "subject": "license",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_028",
+    "text": "「緊急自動車」が接近した際、交差点付近にいる車両の行動として正しいのはどれか。",
+    "options": [
+      "そのまま交差点を通過する",
+      "加速して引き離す",
+      "交差点を避け左側に寄り一時停止する",
+      "中心部で停止する"
+    ],
+    "correctIndex": 2,
+    "explanation": "交差点を避けて左側へ一時停止します。",
+    "subject": "emergency_vehicle",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_029",
+    "text": "「トンネル」内でライトを点灯すべき基準はどれか。",
+    "options": [
+      "夜間と同様の視界が確保されない場合",
+      "常に点灯しなくてよい",
+      "自分の車が見えにくい時だけ",
+      "高速道路のみ"
+    ],
+    "correctIndex": 0,
+    "explanation": "50m先が見えないトンネル等では点灯義務があります。",
+    "subject": "safety_duty",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_030",
+    "text": "「過労運転」をした場合の行政処分について、正しいものはどれか。",
+    "options": [
+      "反則金5,000円",
+      "違反点数25点（即免許取消）",
+      "違反点数なし",
+      "1週間の免許停止"
+    ],
+    "correctIndex": 1,
+    "explanation": "過労運転は重い違反であり即免許取消処分となります。",
+    "subject": "dangerous_driving",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_031",
+    "text": "安全地帯のない停留所で「路面電車」が止まっている時の正しい行動はどれか。",
+    "options": [
+      "徐行して通過する",
+      "警音器を鳴らす",
+      "反対車線から追い越す",
+      "後方で一時停止し待機する"
+    ],
+    "correctIndex": 3,
+    "explanation": "乗降客がある限り、後方で一時停止が必要です。",
+    "subject": "safety_duty",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_032",
+    "text": "一番左側の車両通行帯（第一通行帯）を通行すべき車両はどれか。",
+    "options": [
+      "軽車両、原付、および速度の遅い自動車",
+      "すべての車両",
+      "大型貨物自動車のみ",
+      "タクシーのみ"
+    ],
+    "correctIndex": 0,
+    "explanation": "速度の遅い車両は一番左を通行するのが原則です。",
+    "subject": "traffic_rules",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_033",
+    "text": "複数の通行帯がある道路で「右側」を空けておく主な理由はどれか。",
+    "options": [
+      "緊急自動車専用だから",
+      "追い越しや右折のため",
+      "景気が良い人が通るから",
+      "特に理由はない"
+    ],
+    "correctIndex": 1,
+    "explanation": "最も右側は追い越し等のために空けます。",
+    "subject": "traffic_rules",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_034",
+    "text": "「進路変更」が禁止されている場所を示す標示はどれか。",
+    "options": [
+      "白い破線",
+      "黄色の実線",
+      "白い実線",
+      "標示なし"
+    ],
+    "correctIndex": 1,
+    "explanation": "黄色の実線は進路変更禁止を意味します。",
+    "subject": "traffic_rules",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_035",
+    "text": "「警音器」を鳴らさなければならない場所はどれか。",
+    "options": [
+      "「警笛鳴らせ」の標識がある場所",
+      "前の車が遅い時",
+      "挨拶をする時",
+      "深夜の住宅街"
+    ],
+    "correctIndex": 0,
+    "explanation": "標識で指定された場所等以外では原則禁止です。",
+    "subject": "safety_duty",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_036",
+    "text": "自動車の「積載物の高さ」制限（地上から）は原則何メートルまでか。",
+    "options": [
+      "3.5メートル",
+      "3.8メートル",
+      "4.1メートル",
+      "制限なし"
+    ],
+    "correctIndex": 1,
+    "explanation": "原則として地上から3.8mまでです。",
+    "subject": "load_limits",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_037",
+    "text": "「幼児（6歳未満）」を乗車させる際に使用を義務付けられているものはどれか。",
+    "options": [
+      "大人用シートベルト",
+      "ヘルメット",
+      "抱っこ紐",
+      "チャイルドシート"
+    ],
+    "correctIndex": 3,
+    "explanation": "6歳未満にはチャイルドシートが義務です。",
+    "subject": "safety_equipment",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_038",
+    "text": "「準中型免許」で運転できる車両の最大積載量の範囲はどれか。",
+    "options": [
+      "2.0t以上4.5t未満",
+      "2.0t未満",
+      "4.5t以上6.5t未満",
+      "6.5t以上"
+    ],
+    "correctIndex": 0,
+    "explanation": "最大積載量2.0t以上4.5t未満が対象です。",
+    "subject": "license",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_039",
+    "text": "信号が「青色」のとき、直進以外にできる行動はどれか。",
+    "options": [
+      "停止して待つ",
+      "左折および右折",
+      "バック",
+      "常に転回禁止"
+    ],
+    "correctIndex": 1,
+    "explanation": "青信号は直進、左折、右折が可能です。",
+    "subject": "traffic_signals",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "tl_040",
+    "text": "高速道路の本線車道において禁止されている行為はどれか。",
+    "options": [
+      "追い越し",
+      "ライト点灯",
+      "車間距離保持",
+      "転回（Uターン）"
+    ],
+    "correctIndex": 3,
+    "explanation": "高速道路上での転回や後退は禁止です。",
+    "subject": "highway_rules",
+    "difficulty": "A",
+    "isEnabled": true
+  }
+]

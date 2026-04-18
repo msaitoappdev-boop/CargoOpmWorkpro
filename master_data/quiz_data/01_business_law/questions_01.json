@@ -1,0 +1,302 @@
+[
+  {
+    "id": "bl_001",
+    "text": "貨物自動車運送事業法の目的として、誤っているものはどれか。",
+    "options": [
+      "輸送の安全を確保すること",
+      "貨物自動車運送事業の健全な発達を図ること",
+      "公共の福祉を増進すること",
+      "自動車の登録制度を適正に運営すること"
+    ],
+    "correctIndex": 3,
+    "explanation": "自動車の登録制度は道路運送車両法の目的です。",
+    "subject": "business_purpose",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_002",
+    "text": "一般貨物自動車運送事業の許可に関する記述として、正しいものはどれか。",
+    "options": [
+      "国土交通大臣の許可を受けなければならない",
+      "都道府県知事の登録を受けなければならない",
+      "市町村長の認可を受けなければならない",
+      "警察署長に届け出なければならない"
+    ],
+    "correctIndex": 0,
+    "explanation": "国土交通大臣の許可が必要です。",
+    "subject": "business_permit",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_003",
+    "text": "運行管理者の業務として、法令で定められていないものはどれか。",
+    "options": [
+      "乗務員に対して点呼を行い、報告を求めること",
+      "休憩・睡眠施設の保守管理を監督すること",
+      "過労運転の防止について指導・監督を行うこと",
+      "営業所の車両の販売計画を策定すること"
+    ],
+    "correctIndex": 3,
+    "explanation": "販売計画は運行管理者の法定業務ではありません。",
+    "subject": "manager_duty",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_004",
+    "text": "「運行管理者資格者証」の交付に関する記述のうち、正しいものはどれか。",
+    "options": [
+      "国土交通大臣が交付する",
+      "運行管理者試験に合格した者のみが申請できる",
+      "実務経験が5年以上あれば、無試験で交付される",
+      "有効期限は10年であり、更新が必要である"
+    ],
+    "correctIndex": 0,
+    "explanation": "資格者証は国土交通大臣が交付します。",
+    "subject": "qualification",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_005",
+    "text": "過労運転を防止するための「勤務時間」に関する指導として、適切なものはどれか。",
+    "options": [
+      "運転者の健康状態に関わらず配車計画を優先させる",
+      "酒気帯びであっても体調が良ければ乗務させる",
+      "乗務員の休憩時間や睡眠のための施設を適切に管理する",
+      "24時間連続運転させても翌日が休みなら問題ない"
+    ],
+    "correctIndex": 2,
+    "explanation": "睡眠施設の管理などは運行管理者の義務です。",
+    "subject": "safety_management",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_006",
+    "text": "事業者が運行管理者を選任する際の基準として、正しいものはどれか。",
+    "options": [
+      "営業所ごとに、事業用自動車の台数に応じた必要人数を選任する",
+      "営業所ごとに、車両台数に関わらず1名でよい",
+      "本社に1名いれば、各営業所への選任は不要である",
+      "運転者全員が資格を持っていなければならない"
+    ],
+    "correctIndex": 0,
+    "explanation": "台数に応じた選任義務があります。",
+    "subject": "manager_duty",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_007",
+    "text": "「点呼」の実施について、正しいものはどれか。",
+    "options": [
+      "乗務後の点呼は、事故がなければ省略できる",
+      "対面で行うのが原則だが、遠隔地で困難な場合は電話等でもよい",
+      "酒気帯びの確認は、運転者の自己申告だけでよい",
+      "点呼の記録は、1ヶ月間保存すればよい"
+    ],
+    "correctIndex": 1,
+    "explanation": "対面が原則ですが電話点呼も一定条件下で認められます。",
+    "subject": "roll_call",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_008",
+    "text": "運行管理者が不在の際に、その業務の一部を代行させるために選任する者はどれか。",
+    "options": [
+      "運行管理代務者",
+      "補助者",
+      "安全運転管理者",
+      "整備管理者"
+    ],
+    "correctIndex": 1,
+    "explanation": "補助者を選任できます。",
+    "subject": "manager_duty",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_009",
+    "text": "過労運転防止のため、事業者が運転者に対して行うべきこととして誤っているものはどれか。",
+    "options": [
+      "運転者が不足している場合は、改善基準告示を無視してもよい",
+      "過労運転のおそれがあるときは、乗務させてはならない",
+      "乗務割を作成し、過労運転にならないよう管理する",
+      "休憩時間や睡眠のための施設を整備する"
+    ],
+    "correctIndex": 0,
+    "explanation": "告示の遵守は必須です。",
+    "subject": "safety_management",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_010",
+    "text": "事業用自動車の車体に表示しなければならない事項はどれか。",
+    "options": [
+      "運転者の氏名",
+      "運行管理者の氏名",
+      "自動車の購入価格",
+      "事業者の氏名又は名称"
+    ],
+    "correctIndex": 3,
+    "explanation": "事業者の氏名又は名称の表示が必要です。",
+    "subject": "business_law",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_011",
+    "text": "重大な事故が発生した際、国土交通大臣に「自動車事故報告書」を提出しなければならない期限はいつか。",
+    "options": [
+      "24時間以内",
+      "3日以内",
+      "10日以内",
+      "30日以内"
+    ],
+    "correctIndex": 3,
+    "explanation": "事故報告書は30日以内です。",
+    "subject": "accident_report",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_012",
+    "text": "事業者が作成し営業所に備え置く「運行管理規程」に含まれないものはどれか。",
+    "options": [
+      "点呼の実施方法",
+      "事故防止のための指導・監督",
+      "乗務員の採用基準と賃金体系",
+      "運行管理者の職務と権限"
+    ],
+    "correctIndex": 2,
+    "explanation": "賃金体系などは就業規則の範囲です。",
+    "subject": "business_law",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_013",
+    "text": "「特定運転者」に対して特別な指導を行わなければならない対象に含まれないのはどれか。",
+    "options": [
+      "新たに採用された運転者",
+      "事故を引き起こした運転者",
+      "65歳以上の運転者",
+      "普通免許を取得して3年以内の運転者"
+    ],
+    "correctIndex": 3,
+    "explanation": "免許取得年数による規定はありません。",
+    "subject": "training",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_014",
+    "text": "運行記録計（タコグラフ）による記録が義務付けられている車両はどれか。",
+    "options": [
+      "すべての事業用自動車",
+      "最大積載量が4トン以上の普通自動車",
+      "車両総重量7t以上または最大積載量4t以上の普通自動車",
+      "軽貨物自動車のみ"
+    ],
+    "correctIndex": 2,
+    "explanation": "総重量7t以上または積載4t以上が対象です。",
+    "subject": "tachograph",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_015",
+    "text": "異常気象時等の措置として、運行管理者が行うべきことはどれか。",
+    "options": [
+      "荷主との契約を優先し運行させる",
+      "輸送の安全確保のため運行の中断等の指示を出す",
+      "運転者に速度を上げるよう指示する",
+      "迂回路を探させず待機させる"
+    ],
+    "correctIndex": 1,
+    "explanation": "安全を最優先に中断指示等を行います。",
+    "subject": "safety_management",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_016",
+    "text": "事業用自動車の定期点検整備を実施するのは誰の責任か。",
+    "options": [
+      "運転者",
+      "運行管理者",
+      "自動車メーカー",
+      "事業者（経営者）"
+    ],
+    "correctIndex": 3,
+    "explanation": "点検整備の責任は事業者にあります。",
+    "subject": "safety_management",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_017",
+    "text": "貨物自動車運送事業法に基づく行政処分の種類に含まれないものはどれか。",
+    "options": [
+      "事業の許可の取消し",
+      "6ヶ月以内の事業の停止",
+      "運転免許の取り消し",
+      "自動車の使用停止"
+    ],
+    "correctIndex": 2,
+    "explanation": "運転免許取消は道路交通法です。",
+    "subject": "business_law",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_018",
+    "text": "選任されている運行管理者が「一般講習」を受講すべき頻度はどれか。",
+    "options": [
+      "毎年1回",
+      "2年度ごとに1回",
+      "5年ごとに1回",
+      "資格取得時のみ"
+    ],
+    "correctIndex": 1,
+    "explanation": "2年度ごとに1回の受講義務があります。",
+    "subject": "training",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_019",
+    "text": "「過積載」の防止についての指導として誤っているものはどれか。",
+    "options": [
+      "荷主からの要求があればこれに応じる",
+      "最大積載量を超えて荷を積ませない",
+      "過積載が事故の原因になることを教育する",
+      "積載状況を点呼時等に確認する"
+    ],
+    "correctIndex": 0,
+    "explanation": "荷主の要求でも過積載は絶対禁止です。",
+    "subject": "safety_management",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "bl_020",
+    "text": "アルコール検知器を使用しなければならない場面はどれか。",
+    "options": [
+      "乗務前の点呼時のみ",
+      "乗務後の点呼時のみ",
+      "乗務前および乗務後の点呼時",
+      "事故が発生した時のみ"
+    ],
+    "correctIndex": 2,
+    "explanation": "乗務前後両方の点呼で必要です。",
+    "subject": "roll_call",
+    "difficulty": "A",
+    "isEnabled": true
+  }
+]

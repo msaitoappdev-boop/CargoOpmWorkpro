@@ -1,0 +1,302 @@
+[
+  {
+    "id": "pk_021",
+    "text": "「スタンディングウェーブ現象」が発生しやすい状況はどれか。",
+    "options": [
+      "タイヤ空気圧が低い状態で高速走行",
+      "雨の日に急ブレーキをかけた時",
+      "長い下り坂でエンジンブレーキ多用",
+      "夜間にハイビームで走行した時"
+    ],
+    "correctIndex": 0,
+    "explanation": "空気圧不足での高速走行が主な原因です。",
+    "subject": "vehicle_characteristics",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_022",
+    "text": "「フェード現象」を防止するための最も適切な運転操作はどれか。",
+    "options": [
+      "フットブレーキを強く踏み続ける",
+      "長い下り坂で低いギアを活用する",
+      "クラッチを切って惰性で走る",
+      "速度を上げて風で冷やす"
+    ],
+    "correctIndex": 1,
+    "explanation": "エンジンブレーキの併用が不可欠です。",
+    "subject": "vehicle_characteristics",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_023",
+    "text": "速度と視野の関係について正しい説明はどれか。",
+    "options": [
+      "速度が上がるほど視野は広くなる",
+      "速度が上がるほど視野は狭くなる",
+      "年齢に関わらず視野の広さは不変",
+      "視野は常に左右180度完璧に見える"
+    ],
+    "correctIndex": 1,
+    "explanation": "速度増に伴い視野は狭窄し、遠方注視となります。",
+    "subject": "human_characteristics",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_024",
+    "text": "「ジャックナイフ現象」が発生しやすい状況はどれか。",
+    "options": [
+      "タイヤがパンクした時",
+      "トラクタ・トレーラで急ブレーキ時",
+      "荷物が軽すぎる時",
+      "急発進した時"
+    ],
+    "correctIndex": 1,
+    "explanation": "急制動等で連結部が折れ曲がる現象です。",
+    "subject": "vehicle_characteristics",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_025",
+    "text": "ヒューマンエラー防止対策として誤っているものはどれか。",
+    "options": [
+      "指差し呼称を励行する",
+      "体調不良時は無理せず報告する",
+      "「自分は絶対にミスをしない」と過信する",
+      "チェックリストを活用する"
+    ],
+    "correctIndex": 2,
+    "explanation": "過信は安全確認を疎かにさせます。",
+    "subject": "human_characteristics",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_026",
+    "text": "交通事故における「刑事上の責任」の説明として正しいのはどれか。",
+    "options": [
+      "被害者への損害賠償を行う責任",
+      "免許の停止や取消を受ける責任",
+      "懲役や罰金などの刑罰が科せられる責任",
+      "会社を解雇される責任"
+    ],
+    "correctIndex": 2,
+    "explanation": "法に基づく刑罰が刑事上の責任です。",
+    "subject": "accident_mechanism",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_027",
+    "text": "大型トラックの「後方死角」を補うための最も有効な設備はどれか。",
+    "options": [
+      "大きな警音器",
+      "バックカメラとモニター",
+      "強力な車内灯",
+      "高精度なGPS"
+    ],
+    "correctIndex": 1,
+    "explanation": "モニターでの確認が死角補完に有効です。",
+    "subject": "safety_equipment",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_028",
+    "text": "デジタルタコグラフ（デジタコ）導入の主な目的はどれか。",
+    "options": [
+      "運転者の私生活を監視するため",
+      "運転データを分析し安全指導に活かす",
+      "社内の娯楽として活用するため",
+      "車両の購入価格を下げるため"
+    ],
+    "correctIndex": 1,
+    "explanation": "運行データの分析による安全管理が目的です。",
+    "subject": "tachograph",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_029",
+    "text": "事故惹起者への「適性診断」の主な目的はどれか。",
+    "options": [
+      "本人の精神的追及",
+      "解雇理由の作成",
+      "運転特性の把握と再発防止",
+      "視力の測定のみ"
+    ],
+    "correctIndex": 2,
+    "explanation": "自身の特性を知り、事故を予防します。",
+    "subject": "training",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_030",
+    "text": "SAS（睡眠時無呼吸症候群）が運転に及ぼす主な危険はどれか。",
+    "options": [
+      "夜間の覚醒",
+      "日中の強い眠気による居眠り事故",
+      "視力の向上",
+      "平衡感覚の鋭敏化"
+    ],
+    "correctIndex": 1,
+    "explanation": "強烈な眠気による意識喪失事故の危険があります。",
+    "subject": "health_management",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_031",
+    "text": "「荷崩れ」を防止する積み方として誤っているものはどれか。",
+    "options": [
+      "重い荷物を上に積む",
+      "ラッシングベルトで固定する",
+      "重い荷物を下に積む",
+      "隙間に緩衝材を詰める"
+    ],
+    "correctIndex": 0,
+    "explanation": "重い荷物は下に積み重心を下げます。",
+    "subject": "cargo_loading",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_032",
+    "text": "カーブを走行する際の「スローイン・ファストアウト」とは何か。",
+    "options": [
+      "反対車線を走行すること",
+      "カーブ内で急ブレーキをかける",
+      "速度を上げたまま進入する",
+      "手前で十分に減速し出口で加速する"
+    ],
+    "correctIndex": 3,
+    "explanation": "手前での減速がカーブ走行の鉄則です。",
+    "subject": "vehicle_characteristics",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_033",
+    "text": "冬道の運転において、特に注意すべき凍結箇所はどれか。",
+    "options": [
+      "砂利道",
+      "日当たりの良い道",
+      "交通量の多い交差点",
+      "トンネル出入り口や橋の上"
+    ],
+    "correctIndex": 3,
+    "explanation": "橋の上などは凍結しやすく非常に危険です。",
+    "subject": "weather_driving",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_034",
+    "text": "薬（風邪薬等）を服用した際の正しい注意点はどれか。",
+    "options": [
+      "眠気を催す成分の有無を確認する",
+      "コーヒーを飲れば運転可能",
+      "他人と同じ薬なら安心",
+      "即効性があれば問題ない"
+    ],
+    "correctIndex": 0,
+    "explanation": "眠気を伴う薬の服用は運転に支障を来します。",
+    "subject": "health_management",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_035",
+    "text": "事故現場での「二次事故防止」に直接関係しない行動はどれか。",
+    "options": [
+      "ハザードランプ点灯",
+      "相手と損害賠償額を相談する",
+      "停止表示器材を設置する",
+      "発炎筒を使用する"
+    ],
+    "correctIndex": 1,
+    "explanation": "現場での賠償交渉は二次事故防止にはなりません。",
+    "subject": "emergency_care",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_036",
+    "text": "ドライブレコーダー映像を用いた教育の最大の利点はどれか。",
+    "options": [
+      "プライバシーを公開できる点",
+      "教育時間を短縮できる点",
+      "自社の運行ルートの危険を具体化できる",
+      "映画のように楽しめる点"
+    ],
+    "correctIndex": 2,
+    "explanation": "実際の映像は説得力があり教育効果が高いです。",
+    "subject": "training",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_037",
+    "text": "大雨の中を走行する際、安全確保のためにすべきことはどれか。",
+    "options": [
+      "ライトを点灯し自車の存在を知らせる",
+      "ワイパーを止め速度を上げる",
+      "車間距離を極端に詰める",
+      "窓を全開にする"
+    ],
+    "correctIndex": 0,
+    "explanation": "視界の確保と周囲への合図が必要です。",
+    "subject": "weather_driving",
+    "difficulty": "A",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_038",
+    "text": "胸骨圧迫（心肺蘇生）を行う際の推奨されるペースはどれか。",
+    "options": [
+      "1分間に30回程度",
+      "1分間に60回程度",
+      "1分間に100〜120回程度",
+      "1分間に200回以上"
+    ],
+    "correctIndex": 2,
+    "explanation": "毎分100〜120回のテンポが適切です。",
+    "subject": "emergency_care",
+    "difficulty": "C",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_039",
+    "text": "点呼時に運転者のメンタル面で不安を感じた際の正しい対応はどれか。",
+    "options": [
+      "見て見ぬふりをする",
+      "即座に解雇する",
+      "厳しく叱責する",
+      "個別に対話し安全運転が可能か判断する"
+    ],
+    "correctIndex": 3,
+    "explanation": "対話を通じた安全確認が管理者の義務です。",
+    "subject": "health_management",
+    "difficulty": "B",
+    "isEnabled": true
+  },
+  {
+    "id": "pk_040",
+    "text": "タイヤ交換後に「増し締め」を行うべき適切な走行距離はどれか。",
+    "options": [
+      "走行後すぐ（1km以内）",
+      "50〜100km程度走行した後",
+      "次の車検まで不要",
+      "1,000km走行した後"
+    ],
+    "correctIndex": 1,
+    "explanation": "初期緩みを防ぐため、一定距離後の再確認が必要です。",
+    "subject": "vehicle_characteristics",
+    "difficulty": "B",
+    "isEnabled": true
+  }
+]
